@@ -1,2 +1,2 @@
-# book-of-<A_VERSION>
-* The <PRODUCT>
+# book-of-beta
+* The United States Constitution
